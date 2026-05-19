@@ -1,5 +1,6 @@
-```bash
+
 # Part 1: Baseline Inference (Zero-Shot 測試)
+```bash
 python inference.py --mode zero_shot
 
 # Part 2: QLoRA Fine-tuning (模型視覺指令微調)
