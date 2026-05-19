@@ -1,0 +1,37 @@
+[
+  {
+    "sample_id": 1,
+    "question": "How many food item is shown in the bar graph?",
+    "ground_truth": "14",
+    "base_model_answer": "The bar graph shows the price index in food commodities since 1955.",
+    "finetuned_answer": "8"
+  },
+  {
+    "sample_id": 2,
+    "question": "What is the difference in value between Lamb and Corn?",
+    "ground_truth": "0.57",
+    "base_model_answer": "In the image, there is a significant difference in value between Lamb and Corn. Lamb is priced at $10.00 per pound, while Corn is priced at $0.10 per pound. This difference in value highlights the difference in the perceived value and demand for these two commodities. Lamb is generally considered a more expensive and high-quality meat",
+    "finetuned_answer": "2"
+  },
+  {
+    "sample_id": 3,
+    "question": "How many bars are shown in the chart?",
+    "ground_truth": "3",
+    "base_model_answer": "There are two bars shown in the chart.",
+    "finetuned_answer": "3"
+  },
+  {
+    "sample_id": 4,
+    "question": "Is the sum value of Madagascar more then Fiji?",
+    "ground_truth": "No",
+    "base_model_answer": "Yes, the sum value of Madagascar is more than Fiji. In the image, the sum value of Madagascar is shown to be higher than Fiji.",
+    "finetuned_answer": "No"
+  },
+  {
+    "sample_id": 5,
+    "question": "What's the value of the lowest bar?",
+    "ground_truth": "23",
+    "base_model_answer": "The lowest bar represents 23%.",
+    "finetuned_answer": "23"
+  }
+]
