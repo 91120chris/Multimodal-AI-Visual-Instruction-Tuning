@@ -1,3 +1,6 @@
+```bash
+  pip install -r requirements.txt
+```
 ### Part 1: Baseline Inference
 ```bash
 python inference.py --mode zero_shot
